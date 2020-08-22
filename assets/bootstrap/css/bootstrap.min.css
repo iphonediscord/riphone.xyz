@@ -10848,7 +10848,7 @@ html {
     width: 2px;
     height: 6px;
     border-radius: 2px;
-    background-color: #007bff;
+    background-color: #fff;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
   }
